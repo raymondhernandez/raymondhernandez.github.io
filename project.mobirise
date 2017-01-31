@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -146,7 +146,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyber-security-hgtc-keyboard-lock-2000x880.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -174,7 +174,7 @@
             "imageSize": "37",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cybersecurity-fotolia-banner-2000x737.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -238,6 +238,40 @@
           "text": "\"If your not living on the edge then your taking up to much space\"&nbsp;"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyber-securty-clipart-2000x1382.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "LIFE GOALS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_inherit": "features4",
           "_tags": [
             "Theme"
@@ -249,6 +283,12 @@
             ".iconbox": {
               "background-color": "@primaryColor",
               "border-color": "@primaryColor"
+            },
+            "P": {
+              "color": "#fac51c"
+            },
+            "H4": {
+              "color": "#fac51c"
             }
           },
           "_name": "features7",
@@ -259,7 +299,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/original-cybersecurity-lock-blog-900x675-2000x1500.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
