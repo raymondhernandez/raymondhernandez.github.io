@@ -328,8 +328,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Awesome",
@@ -412,12 +412,12 @@
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery2-5",
