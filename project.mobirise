@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "NewSite-01-26_2127",
-    "currentPage": "page4.html",
+    "name": "Raymond h portifolio",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15,14 +15,16 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
-    "versionFirst": "3.10.7",
-    "uniqCompNum": 17,
-    "versionPublish": "3.10.7"
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 6,
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -54,15 +56,13 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
+              "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -94,12 +94,8 @@
           "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.05",
-            "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
-            },
+            "fontSize": "0.8",
+            "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
@@ -112,7 +108,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -125,120 +121,103 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">RAYMOND HERNANDEZ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">bibliography</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photshop.html\">photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blender.html\">blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">microsoft word<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Certifcations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">refrences<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Work experience</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">work experience</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Biliography</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-a",
+          "_name": "slider",
           "_params": {
+            "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1484820986637-7ec3e85b394f-2000x1316.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x942.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Raymond hernandez",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Bilbliography</a> "
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=fIlJyZEbrzo",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Samples of my work</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
           },
-          "title": "Raymond hernandez<br>portfolio",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "_anchor": "slider-1",
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-1",
+          "_name": "buttons1",
+          "_anchor": "buttons1-3",
           "_params": {
-            "imageSize": "37",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1484651890318-ca4110437e20-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-0151-1400x1050.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "BIBLIOGRAPHY",
-          "text": "Hi my name is raymond hernandez, &nbsp;i go to miami arts studio and i love tech<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Goals</a> ",
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+            ".btn": {
+              "font-size": "20px"
             }
-          },
-          "_name": "features7",
-          "_anchor": "features7-2",
+          }
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-2",
           "_params": {
-            "iconsBgColor": "@primaryColor",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1457274858420-ea606e99cc5c-2000x1329.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -255,74 +234,71 @@
           },
           "media1": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
+              "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "to-local-drive",
+              "name": "music",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "size": 0
             }
           },
-          "title1": "goal 1",
+          "title1": "",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "I personally would like to go into cyber securit as my primary choice of career. I have always liked hacking its quite fun!",
+          "caption1": "before i leave this world I would love to own my own radio station and be a successful buisness owner.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
+              "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "laptop",
+              "name": "change-style",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "size": 0
             }
           },
-          "title2": "goal 2",
+          "title2": "",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "If i dont get a job as a cyber security i would also like to persue in a field of computer science",
+          "caption2": "My goal in life is to know photshop like the back of my head and be able to create my own art to brand myself.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title3": "goal 3",
+          "title3": "",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "i would also like to get my masters degree.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "My goal is too have offspring to continue my dream and be able to pass somthing on to them&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title4": "goal 4<br>",
+          "title4": "",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "be successful and leave something behind for my kids to follow in my footsteps.",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">My goal is to be able to retire at 60 and be happy and have no regrets when it is time for me to leave this world</span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -333,11 +309,10 @@
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -347,119 +322,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "",
-          "text3": ""
-        }
-      ]
-    },
-    "photshop.html": {
-      "settings": {},
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-4",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.05",
-            "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128-1-128x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">RAYMOND HERNANDEZ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">bibliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photshop.html\">photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blender.html\">blender</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Certifcations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">refrences<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Work experience</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">work experience</a></li>"
-        },
-        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -474,76 +336,83 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-trek-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/trump-2000x1509-800x603.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trump-2000x1509.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/raymond-hernandez-record-label-acdc-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-hernandez-record-label-acdc-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/robot-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/robot-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/raymond-hernandezmarvel-symbols-6-2000x1973-800x789.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-hernandezmarvel-symbols-6-2000x1973.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-2000x1128-800x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-2000x1128.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/avengers-2000x982-800x392.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-2000x982.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -551,560 +420,108 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-7",
+          "_anchor": "gallery2-5",
           "articleLayout": false,
           "allItem": "All"
-        }
-      ]
-    },
-    "blender.html": {
-      "settings": {},
-      "components": [
+        },
         {
-          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-5",
+          "_name": "contacts3",
+          "_anchor": "contacts3-4",
           "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.05",
-            "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-265x265.jpg",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128-1-128x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
+              "alt": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
               "size": 0
             }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">RAYMOND HERNANDEZ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">bibliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photshop.html\">photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blender.html\">blender</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Certifcations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">refrences<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Work experience</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">work experience</a></li>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-8",
-          "articleLayout": false,
-          "allItem": "All"
-        }
-      ]
-    },
-    "mobirise.html": {
-      "settings": {},
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-6",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.05",
-            "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128-1-128x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">RAYMOND HERNANDEZ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">bibliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photshop.html\">photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blender.html\">blender</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Certifcations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">refrences<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Work experience</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">work experience</a></li>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-9",
-          "articleLayout": false,
-          "allItem": "All"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {},
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-b",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.05",
-            "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128-1-128x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">RAYMOND HERNANDEZ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">bibliography</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photshop.html\">photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blender.html\">blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">microsoft word<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Certifcations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">refrences<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Work experience</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">work experience</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-d",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development&nbsp;</p>",
-          "text2": "",
-          "text3": "<p>Make your own website in a few clicks!</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "DISCUSS IT 6",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
           },
           "text1": "",
-          "text2": "",
-          "text3": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-g",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
           },
-          "text1": "",
-          "text2": "<p><br></p><p>I feel like at the moment the country is split in half because people feel that trump in going to disrespect womens rights but most people just believing in what they see on tv and are not really educated in whats really gone . trump has already made millions of more jobs on only his first week of being in office.</p><p><br></p>",
-          "text3": ""
+          "text2": "&nbsp;305 485 2323",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "&nbsp;15015 SW 24th Street, Miami, FL 33185",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "",
+          "title1": "Categories",
+          "text5": "<span style=\"font-size: 14px; line-height: 25px;\">&nbsp; Bibliography&nbsp;</span><br><span style=\"font-size: 14px; line-height: 25px;\">&nbsp;Samples of my work</span><br><span style=\"font-size: 14px; line-height: 25px;\">&nbsp;microsoft word</span><br><span style=\"font-size: 14px; line-height: 25px;\">&nbsp;refrences&nbsp;</span><br><br>",
+          "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "raymondhernandez759@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     }
