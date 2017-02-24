@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.Razi-nin.com",
-    "currentPage": "index.html",
+    "currentPage": "bibliography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1279,7 +1279,7 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a",
+              "color": "#000000",
               "text-align": "left",
               "font-size": "18px",
               "font-family": "'Montserrat', sans-serif",
@@ -1296,7 +1296,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
