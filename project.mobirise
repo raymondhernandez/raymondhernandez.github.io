@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#000000",
+        "primaryColor": "#d14841",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 44,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -153,7 +153,7 @@
           },
           "title": "&nbsp; &nbsp; Raymond hernandez",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"bibliography.html\" data-toolbar=\"-mbrBtnMove\">BILIOGRAPHY</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"bibliography.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a> ",
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center"
@@ -189,6 +189,29 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "title": "PRE MADE BLOCKS"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "Portifolio Gallery Samples",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_inherit": "gallery1",
@@ -244,7 +267,7 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#475577",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -290,7 +313,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -304,7 +327,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#475577",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -367,15 +390,15 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-4",
+          "_name": "contacts1",
+          "_anchor": "contacts1-15",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#18150b",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -383,9 +406,8 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-rh-265x265.jpg",
-              "class": "card-img-top",
-              "width": 265,
+              "src": "@PROJECT_PATH@/assets/images/logo-rh-128x128.jpg",
+              "width": 128,
               "active": true,
               "link": "",
               "alt": "",
@@ -393,74 +415,19 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "",
               "size": 0
             }
           },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
+          "text1": "<strong>Address &nbsp;</strong><br><strong><br></strong>15015 SW 24th Street, Miami, FL 33185<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Raymondhernandez759@yahoo.com<br>\nPhone: 786 516 4252<br><br>",
+          "text3": "<strong>Links</strong><br>Introduction<br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
             }
-          },
-          "text2": "&nbsp;305 485 2323",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "&nbsp;15015 SW 24th Street, Miami, FL 33185",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "",
-          "title1": ".",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "raymondhernandez759@yahoo.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          }
         }
       ]
     },
