@@ -110,7 +110,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-rh-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -123,8 +123,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -136,7 +136,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/image-2-space-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -151,9 +151,14 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "Raymond hernandez",
+          "title": "&nbsp; &nbsp; Raymond hernandez",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"bibliography.html\" data-toolbar=\"-mbrBtnMove\">BILIOGRAPHY</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"bibliography.html\" data-toolbar=\"-mbrBtnMove\">BILIOGRAPHY</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -196,43 +201,13 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-record-label-acdc-2000x1428-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-record-label-acdc-2000x1428.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gg-raymond-hernandezflash-logo-2000x1428-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gg-raymond-hernandezflash-logo-2000x1428.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gg-torn-image-2000x1428-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gg-torn-image-2000x1428.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gg-clinton-2000x1428-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gg-clinton-2000x1428.jpg",
-                "caption": "Type caption here",
+                "caption": "Hillary Clinton&nbsp;<br>",
                 "active": false
               },
               {
@@ -240,10 +215,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gg-trump-2000x1428-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gg-trump-2000x1428.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-record-label-acdc-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-record-label-acdc-2000x1428.jpg",
+                "caption": "ACDC Record Label",
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -252,7 +227,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-batman-2000x1428-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-batman-2000x1428.jpg",
-                "caption": "Type caption here",
+                "caption": "Batman&nbsp;",
                 "active": false
               },
               {
@@ -262,26 +237,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gg-polka-dots-2000x1428-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gg-polka-dots-2000x1428.jpg",
-                "caption": "Type caption here",
+                "caption": "Ray Polka dots",
                 "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/image-2-space-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/image-2-space-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#475577",
             "filterBgColor": true,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery3-12",
@@ -396,7 +361,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Raymond hernandez"
         },
         {
           "_tags": [
@@ -405,8 +370,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-4",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -418,7 +383,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-rh-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -464,7 +429,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
@@ -589,8 +554,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -599,8 +564,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-d",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -658,7 +623,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
@@ -783,8 +748,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -793,8 +758,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-f",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -852,7 +817,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
@@ -977,8 +942,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -987,8 +952,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-h",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1046,7 +1011,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
@@ -1171,8 +1136,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -1181,8 +1146,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-j",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1240,7 +1205,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
@@ -1365,8 +1330,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -1375,8 +1340,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-l",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1434,7 +1399,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
@@ -1559,8 +1524,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_inherit": "header1",
@@ -1729,8 +1694,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-9",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1788,7 +1753,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
@@ -1913,8 +1878,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Biliography</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond Hernandez</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -2025,8 +1990,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-b",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2084,7 +2049,7 @@
             }
           },
           "text4": "",
-          "title1": "LINK",
+          "title1": ".",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: Raymondhernandez759@yahoo.com<br>&nbsp;<br><br><br><strong>Address</strong><br>&nbsp;15015 SW 24th Street, Miami, FL 33185<br>",
           "form": {
