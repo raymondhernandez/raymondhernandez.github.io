@@ -24,7 +24,9 @@
     "noImageResize": "",
     "versionFirst": "3.11.1",
     "uniqCompNum": 25,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -122,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Raymond hernandez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Biliography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miscrosoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Blender</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Refrences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">family member&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliography.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Biliography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCPAFJJI49bU9UAVxF95DB1Q\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Youtube</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -150,10 +152,10 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"bibliography.html\" data-toolbar=\"-mbrBtnMove\">Bilbliography</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fIlJyZEbrzo",
+                "videoUrl": "https://youtu.be/BL4pZ6lLWm0?list=PL_UUBmTF7Q6Y7fAIaGxBwaoNi6Nrf20Mf",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
@@ -164,7 +166,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -175,7 +177,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Samples of my work</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#gallery2-5\" data-toolbar=\"-mbrBtnMove\">Samples of my work</a> "
               }
             ],
             "fullScreen": true,
@@ -199,7 +201,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Goals</a> "
         },
@@ -415,7 +417,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
