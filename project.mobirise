@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 32,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -138,11 +138,12 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x942.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1355.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.6",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Raymond hernandez<br><br>",
@@ -152,7 +153,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"bibliography.html\" data-toolbar=\"-mbrBtnMove\">Bilbliography</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/BL4pZ6lLWm0?list=PL_UUBmTF7Q6Y7fAIaGxBwaoNi6Nrf20Mf",
@@ -177,7 +178,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#gallery2-5\" data-toolbar=\"-mbrBtnMove\">Samples of my work</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#gallery4-q\" data-toolbar=\"-mbrBtnMove\">Samples of my work</a> "
               }
             ],
             "fullScreen": true,
@@ -191,19 +192,154 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "buttons1-3",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-t",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": false
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Goals</a> "
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-record-label-acdc-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-record-label-acdc-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gg-raymond-hernandezflash-logo-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-raymond-hernandezflash-logo-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gg-torn-image-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-torn-image-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gg-clinton-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-clinton-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gg-trump-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-trump-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-batman-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-raymond-hernandez-batman-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gg-polka-dots-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gg-polka-dots-2000x1428.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-q",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
         },
         {
           "_inherit": "features3",
@@ -218,7 +354,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -242,7 +378,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#b8312f"
             }
           },
           "title1": "",
@@ -257,7 +394,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#b8312f"
             }
           },
           "title2": "",
@@ -272,7 +410,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#d14841"
             }
           },
           "title3": "",
@@ -287,7 +426,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#b8312f"
             }
           },
           "title4": "",
@@ -324,107 +464,34 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-v",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/star-trek-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/trump-2000x1509-800x603.jpg",
-                "image": "@PROJECT_PATH@/assets/images/trump-2000x1509.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/raymond-hernandez-record-label-acdc-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-hernandez-record-label-acdc-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/robot-2000x1428-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/robot-2000x1428.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/raymond-hernandezmarvel-symbols-6-2000x1973-800x789.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-hernandezmarvel-symbols-6-2000x1973.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-2000x1128-800x451.jpg",
-                "image": "@PROJECT_PATH@/assets/images/polka-dots-2000x1128.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/avengers-2000x982-800x392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-2000x982.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "2",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
             "showText": false,
-            "filter": false,
-            "bgColor": "#efefef",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            "showTitle": false
           },
-          "_anchor": "gallery2-5",
-          "articleLayout": false,
-          "allItem": "All"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
@@ -433,7 +500,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-4",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -627,7 +694,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-d",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -821,7 +888,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-f",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -1015,7 +1082,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-h",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -1209,7 +1276,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-j",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -1403,7 +1470,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-l",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -1635,7 +1702,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-9",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -1931,7 +1998,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-b",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,

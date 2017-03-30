@@ -478,9 +478,6 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#buttons1-3 .btn {
-  font-size: 20px;
-}
 #ext_menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
